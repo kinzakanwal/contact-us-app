@@ -2,7 +2,7 @@
 
 A new Flutter project.
 # end result
-<img src="images/end result.jpg"> 
+<img src="images/end result.PNG"> 
 
 ## Getting Started
 
